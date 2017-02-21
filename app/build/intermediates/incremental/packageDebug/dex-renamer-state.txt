@@ -1,0 +1,7 @@
+#Tue Feb 21 11:48:51 CST 2017
+base.0=/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_89a6588e33f8ff2744b6fa7fa153bb0bb4778675
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4527dda78b649960318ef6b2b2a121ce31c3656/classes.dex
+base.1=/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4527dda78b649960318ef6b2b2a121ce31c3656
+file.0=/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_89a6588e33f8ff2744b6fa7fa153bb0bb4778675/classes.dex

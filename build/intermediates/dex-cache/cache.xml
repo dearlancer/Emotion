@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_982cb43f2d9b775f9a32838eae7a396d3e3f03bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_36d1d76797840189a30123dbc9ed117d96850663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_3765f9414c345da866a87681fb86d9dbdcd43ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_372ac71170b4b25c34642676870e54ffbf5421d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_f8f33ded104b8587bf03689b7957ad793a538bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9698f566093780125c615fc75941a4f6db469de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="28a040c1629c23c4099f5db2c4bd8e47cb842aca">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_89a6588e33f8ff2744b6fa7fa153bb0bb4778675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72e6f6f2ec66306e11d9a3fe69cc7dbe706a1166">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4527dda78b649960318ef6b2b2a121ce31c3656/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_ea47ebc5b8a7e36cefeca2e567e6480bad1fcb27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_ba19067d20e5f2bf2d9a9758e02b148ef9f0f191/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_193c16d18199baf602197facb616b2c90516cdfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_a5055956a4499c9395adb4e3ffd539ef9234fbbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_40726e7dbc62aa914642300d34a0033db0347ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_849eb02e71ec72db47c37299ddfefee356c14b9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dbf5456fb89dd3abc110b16fdb0698520f41ac52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_12807c2e6356e38af3b9df92dc15dca825d99463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_21df32dfe5f5fd41959121f54ca63fc000e6b95a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_4264dadb83b172ad4654d083ef0e04ff9290d43f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_4a084dbba30033dea72220d58f61ad39a40a943d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_e81a34b99f4d3d19e0d19102f3c478fde96bb2ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_3c413fe12221296c4d8c3d3bb69414936b00bf34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/wangzhicheng/develop/ImgEdit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ba77f29d8b4397a221285cfaee1ffdbc1bb2e620/classes.dex" />
+    </item>
+
+</items>

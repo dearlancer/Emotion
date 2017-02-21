@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/root_view"
+    android:background="@null">
+    <com.example.wangzhicheng.imgedit.expression.EmotionEditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:capitalize="sentences"
+        android:textSize="15sp"
+        android:focusable="true"
+        android:hint="写点什么吧"
+        android:gravity="top"
+        android:minLines="5"
+        android:scrollbars="vertical"
+        android:singleLine="false"
+        />
+    <!--
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:background="@color/white"/>
+        -->
+    <LinearLayout
+        android:id="@+id/bottom_lay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <ToggleButton
+            android:id="@+id/emotion_button"
+            android:layout_width="34dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:clickable="true"
+            android:background="@null"
+            android:gravity="center"
+            android:textOff=""
+            android:textOn=""
+            android:scaleType="centerInside"
+            android:button="@drawable/keyboard_toggle" />
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="5dp"
+            android:clickable="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_pic"
+            />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_emotionview_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

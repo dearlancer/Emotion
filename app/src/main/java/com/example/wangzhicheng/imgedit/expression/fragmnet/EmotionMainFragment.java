@@ -25,6 +25,7 @@ import java.util.List;
 /**
  * Created by wangzhicheng
  * Description:表情主界面
+ * 适配一切编辑框
  */
 public class EmotionMainFragment extends BaseFragment {
 
@@ -121,15 +122,6 @@ public class EmotionMainFragment extends BaseFragment {
         }
     }
 
-    /*
-    * 解除edittext的绑定 防止内存泄漏
-    * @param
-    * */
-
-    public void unbindToEditText(){
-        this.editText=null;
-        GlobalOnItemClickManagerUtils.getInstance().attachToEditText(null);
-    }
     /**
      * 初始化view控件
      */
@@ -145,6 +137,15 @@ public class EmotionMainFragment extends BaseFragment {
      */
     protected void initListener(){
 
+    }
+
+    /**
+     * 与activity解绑时需要释放静态类引用，防止内存泄漏
+     */
+    @Override
+    public void onDetach() {
+        super.onDetach();
+        GlobalOnItemClickManagerUtils.getInstance().attachToEditText(null);
     }
 
     /**

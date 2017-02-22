@@ -22,7 +22,6 @@ import java.util.regex.Pattern;
 
 public class EmotionEditText extends EditText {
     public static final String EMOJIMATCHER="\\[([a-zA-Z]*[\\u4e00-\\u9fa5]*)\\]";
-    public static final String LUMATCHER="\\[鹿([a-zA-Z]*[\\u4e00-\\u9fa5]*)\\]";
     EmotionEditText emotionEditText;
 
     public EmotionEditText(Context context) {
@@ -54,24 +53,6 @@ public class EmotionEditText extends EditText {
             } catch (Resources.NotFoundException e) {
             }
         }
-        pattern= Pattern.compile(LUMATCHER);
-        matcher=pattern.matcher(spannable);
-        while(matcher.find()){
-            start=matcher.start();
-            end=matcher.end();
-            String lu=matcher.group();
-            int imgId=EmotionUtils.getImgByName(EmotionUtils.LU_CLASSIC_TYPE,lu);
-            Drawable drawable = null;
-            try {
-                drawable = getContext().getDrawable(imgId);
-                Bitmap bitmap = ((BitmapDrawable) drawable).getBitmap();
-                Drawable d = new BitmapDrawable(getResources(), Bitmap.createScaledBitmap(bitmap, ScreenUtils.dip2px(getContext(), 20), ScreenUtils.dip2px(getContext(), 20), true));
-                d.setBounds(0, 0, d.getIntrinsicWidth(), d.getIntrinsicHeight());
-                ImageSpan span = new ImageSpan(d, ImageSpan.ALIGN_BASELINE);
-                spannable.setSpan(span, start,end, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
-            } catch (Resources.NotFoundException e) {
-            }
-        }
         setText(spannable);
         setSelection(spannable.length());
     }
@@ -92,11 +73,6 @@ public class EmotionEditText extends EditText {
         int length = s.length();
         Pattern pattern= Pattern.compile(EMOJIMATCHER);
         Matcher matcher=pattern.matcher(s);
-        while(matcher.find()){
-            length-=matcher.end()-matcher.start()-1;
-        }
-        pattern= Pattern.compile(LUMATCHER);
-        matcher=pattern.matcher(s);
         while(matcher.find()){
             length-=matcher.end()-matcher.start()-1;
         }

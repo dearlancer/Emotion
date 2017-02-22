@@ -37,12 +37,6 @@ public class MainActivity extends AppCompatActivity {
         initEmotionMainFragment();
     }
 
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        emotionMainFragment.unbindToEditText();
-    }
-
     /**
      * 初始化表情面板
      */
